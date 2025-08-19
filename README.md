@@ -1,7 +1,7 @@
 # React Shop Cart Application
 
 # Click on the link below to see the preview.
-Link: https://shop-card-ten.vercel.app/
+Link: https://shop-card1.vercel.app/
 
 This is a responsive and interactive shopping cart application developed by Mohammad Mohebi using React.js. The project was built for portfolio purposes to demonstrate skills in modern frontend development, state management, and responsive UI design.
 
